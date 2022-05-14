@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jdbjfl" target="blank"><img src="https://img.shields.io/twitter/follow/jdbjfl?logo=twitter&style=for-the-badge" alt="jdbjfl" /></a> </p>
 
-- 🌱 I’m currently learning **the MEARN stack and TypeScript!**
+- 🌱 I’m currently learning **the MERN stack and TypeScript!**
 
 - 💬 Ask me about **React, Javascript, or front-end development.**
 
