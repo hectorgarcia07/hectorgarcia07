@@ -39,9 +39,9 @@
         <p>Responsive Todo app built with React, Redux, and vanilla CSS.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">"That's What She Said"</h3>
+      <h3 align="center">IP Tracker</h3>
         <br />
-        <a target="_blank" href="https://thatswhatshesaid.netlify.app">
+        <a target="_blank" href="https://hectorgarcia07.github.io/FEM-IPAddressTracker/">
           <img src="assets/ip-address-tracker.gif" width="100%" alt="the office app"/>
         </a>
         <br />
@@ -63,4 +63,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hectorgarcia07&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </div>
+
+
 
