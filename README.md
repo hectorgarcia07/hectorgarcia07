@@ -57,6 +57,43 @@
         <p>Be able to (somewhat) accuratly see your location based on your IP address. </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Calculator App</h3>
+      <br />
+        <a target="_blank" href="https://hectorgarcia07.github.io/FEM-Calculator-App/">
+          <img src="assets/calculatorpreview.gif" width="100%" alt="todo preview"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/hectorgarcia07/FEM-Calculator-App" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://hectorgarcia07.github.io/FEM-Calculator-App/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p>Responsive calculator app made with Vanilla JS, SCSS, with 3 diffrent themes.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Tip Calculator</h3>
+        <br />
+        <a target="_blank" href="https://hectorgarcia07.github.io/FEM-Tip-Calculator-App/">
+          <img src="assets/tipCalculator.gif" width="100%" alt="the office app"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/hectorgarcia07/FEM-Tip-Calculator-App" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://hectorgarcia07.github.io/FEM-Tip-Calculator-App/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p>A tip calculator app capable of calculating a the total tip based on the total amount, tip percentage and number of people.</p>
+    </td>
+  </tr>
 </table>
 
 
