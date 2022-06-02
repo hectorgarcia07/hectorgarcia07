@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=netlify&logo-color=white"/>
   </a>
       </p>
-        <p>Responsive Todo app built with React, Redux, and vanilla CSS.</p>
+        <p>Responsive Todo app built with React, Redux, and Styled Components.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">IP Tracker</h3>
