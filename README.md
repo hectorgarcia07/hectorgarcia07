@@ -94,6 +94,26 @@
         <p>A tip calculator app capable of calculating a the total tip based on the total amount, tip percentage and number of people.</p>
     </td>
   </tr>
+ 
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Interactive Card Details Form</h3>
+      <br />
+        <a target="_blank" href="https://hectorgarcia07.github.io/FEM-Interactive-Card-Details/">
+          <img src="assets/InteractiveCardDetail.gif" width="100%" alt="todo preview"/>
+        </a>
+      <br />
+        <p align="center">
+          <a href="https://github.com/hectorgarcia07/FEM-Interactive-Card-Details" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="https://hectorgarcia07.github.io/FEM-Interactive-Card-Details/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=netlify&logo-color=white"/>
+          </a>
+      </p>
+        <p>Credit Card form build using Formik, MaterialUI, and Style Components. Form validation is handled using Yup.</p>
+    </td>
+  </tr>
 </table>
 
 
