@@ -111,7 +111,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=netlify&logo-color=white"/>
           </a>
       </p>
-        <p>Credit Card form build using Formik, MaterialUI, and Style Components. Form validation is handled using Yup.</p>
+        <p>Credit Card form build using React, Formik, MaterialUI, and Style Components. Form validation is handled using Yup.</p>
     </td>
   </tr>
 </table>
