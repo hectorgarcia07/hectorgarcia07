@@ -91,7 +91,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>A tip calculator app capable of calculating a the total tip based on the total amount, tip percentage and number of people.</p>
+        <p>A tip calculator app capable of calculating tips based on the total amount, tip percentage and number of people.</p>
     </td>
   </tr>
  
