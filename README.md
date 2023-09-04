@@ -6,12 +6,11 @@
 
 - 💬 Ask me about **React, Javascript, or front-end development.**
 
-- 📫 How to reach me **jdbjfl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jdbjfl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jdbjfl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hectorgarcia01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hectorgarcia01" height="30" width="40" /></a>
+
 <a href="https://stackoverflow.com/users/15410811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15410811" height="30" width="40" /></a>
 </p>
 
